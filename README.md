@@ -39,6 +39,10 @@
 - **AI & Vision :** Neural networks, computer vision pipelines, and deep learning models.
 - **Distributed Networks :** Asynchronous RFC-compliant protocols, I/O multiplexing, and robust multi-client server architectures.
 
+<br/>
+
+> <sub>*Note: A substantial portion of active repositories, school modules, and internal projects are kept private, meaning public contribution metrics only represent a subset of overall activity.*</sub>
+
 ---
 
 ### Tech Stack
