@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zertrox123&fontSize=48&fontAlignY=38&desc=Low-Level%20Systems%20%7C%20AI%20%7C%20Security&descFontSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zertrox123&fontSize=48&fontAlignY=38&desc=Low-Level%20Systems%20%7C%20High-Performance%20Computing%20%7C%20AI&descFontSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Zertrox123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=40&lines=Low-Level+%26+Systems+Software+Engineer;High-Performance+C%2FC%2B%2B+%26+Concurrency;AI+%26+Deep+Learning+Models;Binary+Analysis+%26+Security+Research" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=40&lines=Low-Level+%26+Systems+Software+Engineer;High-Performance+C%2FC%2B%2B+%26+Concurrency;AI+%26+Deep+Learning+Models;Distributed+Networks+%26+Async+Architectures" alt="Typing Subtitle" />
   </a>
 
   <br/><br/>
@@ -33,7 +33,7 @@
 
 - **Systems & Kernel :** High-performance runtimes, memory optimization, and concurrent architectures in **C / C++20**.
 - **AI & Vision :** Neural networks, computer vision pipelines, and deep learning models.
-- **Security & Network :** Binary analysis, reverse engineering, and asynchronous RFC-compliant protocols.
+- **Distributed Networks :** Asynchronous RFC-compliant protocols, I/O multiplexing, and robust multi-client server architectures.
 
 ---
 
