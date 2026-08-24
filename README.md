@@ -90,15 +90,9 @@
   </tr>
 </table>
 
----
-
-### Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zertrox123&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
 
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" alt="Footer" />
 </div>
+
