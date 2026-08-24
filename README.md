@@ -1,176 +1,50 @@
-<!-- ================================================================= -->
-<!-- GITHUB PROFILE README - MODERN CYBER / TOKYO NIGHT EDITION -->
-<!-- ================================================================= -->
+# Zertrox123
 
-<div align="center">
-
-  <!-- Dynamic Header Banner (Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,30:7aa2f7,70:bb9af7,100:7dcfff&height=220&section=header&text=Zertrox123&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%7C%20Systems%20%26%20Low-Level%20%7C%20AI%20%26%20Security&descFontSize=19&descAlignY=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
-
-  <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/Zertrox123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&height=45&lines=Specialized+in+High-Performance+C%2FC%2B%2B+%26+Systems+Programming;Building+AI%2C+Deep+Learning+%26+Computer+Vision+Models;Cybersecurity%2C+Reverse+Engineering+%26+Binary+Exploitation;Network+Protocols%2C+Concurrency+%26+Distributed+Architectures" alt="Typing Subtitle" />
-  </a>
-
-  <br/>
-
-  <!-- Social & Contact Badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/Zertrox123" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:zertrox123@epitech.eu">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/Zertrox123">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Status-Building-2ea44f?style=for-the-badge" alt="Status" />
-    </a>
-  </p>
-
-</div>
+Software Engineer specializing in **Low-Level Systems**, **High-Performance C / C++**, **Artificial Intelligence**, and **Security**.
 
 ---
 
-### About Me
+### Focus & Interests
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <ul>
-        <li><b>Focus Actuel :</b> Développement système haute performance, moteurs asynchrones & protocoles réseau en <b>C / C++20</b>.</li>
-        <li><b>IA & Machine Learning :</b> Implémentation de pipelines de deep learning, vision par ordinateur et modèles autonomes.</li>
-        <li><b>Sécurité & Reverse :</b> Analyse binaire, rétro-ingénierie (Ghidra, GDB), compréhension bas-niveau et exploitation.</li>
-        <li><b>Philosophie :</b> <i>"Comprendre chaque cycle processeur, maîtriser la mémoire, concevoir des architectures robustes."</i></li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 12px;" alt="Coding gif" />
-    </td>
-  </tr>
-</table>
+- **Systems & Kernel Programming:** Developing low-latency runtimes, operating system components, and concurrent architectures in C and C++20.
+- **Artificial Intelligence & Computer Vision:** Implementing deep learning pipelines, autonomous decision models, and high-throughput data processing.
+- **Cybersecurity & Reverse Engineering:** Binary analysis, vulnerability exploration, and low-level debugging.
+- **Distributed Networks:** Architecting asynchronous multi-client protocols and high-load servers.
 
 ---
 
-### Technical Stack
+### Technical Arsenal
 
-<table width="100%" border="0">
-  <tr>
-    <td width="28%"><b>Low-Level & Systems</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,rust,assembly,linux,bash,cmake&theme=dark" alt="Systems Stack" />
-    </td>
-  </tr>
-  <tr>
-    <td width="28%"><b>AI, Data & Scripting</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,numpy&theme=dark" alt="AI Stack" />
-    </td>
-  </tr>
-  <tr>
-    <td width="28%"><b>Web & Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,fastapi,mysql,postgres,mongodb&theme=dark" alt="Web Stack" />
-    </td>
-  </tr>
-  <tr>
-    <td width="28%"><b>DevOps & Tooling</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,docker,gdb,neovim,vscode,githubactions,postman&theme=dark" alt="DevOps Stack" />
-    </td>
-  </tr>
-</table>
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `C` &bull; `C++20` &bull; `Rust` &bull; `Python` &bull; `Assembly (x86_64)` &bull; `Bash` &bull; `SQL` |
+| **Systems & Network** | `Linux / POSIX` &bull; `Multithreading` &bull; `IPC` &bull; `Sockets (TCP/UDP)` &bull; `CMake` &bull; `Makefile` |
+| **AI & Data** | `PyTorch` &bull; `TensorFlow` &bull; `OpenCV` &bull; `NumPy` &bull; `Scikit-Learn` |
+| **Tools & Security** | `Git` &bull; `Docker` &bull; `GDB` &bull; `Valgrind` &bull; `Ghidra` &bull; `Neovim` &bull; `GitHub Actions` |
 
 ---
 
-### Featured Projects
+### Selected Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Corewar (VM & Assembler)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Language-C%20%7C%20ASM-00599C?style=flat-square&logo=c" />
-        <img src="https://img.shields.io/badge/Topic-Virtual%20Machine-blueviolet?style=flat-square" />
-      </p>
-      <p>Implémentation d'une machine virtuelle complète exécutant des champions en bytecode d'instructions assembleur, avec gestion d'ordonnancement de processus et arène mémoire circulaire temps réel.</p>
-      <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">The Plazza & Panoramix (Concurrency)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Language-C++20-00599C?style=flat-square&logo=cplusplus" />
-        <img src="https://img.shields.io/badge/Topic-Multithreading%20%7C%20IPC-brightgreen?style=flat-square" />
-      </p>
-      <p>Moteur de simulation distribué haute concurrence avec gestion de processus multiples, IPC (Named Pipes / Sockets), Thread Pools et sémaphores pour allocation dynamique de ressources sans deadlocks.</p>
-      <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">MyTeams & MyFTP (Network Architecture)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Language-C%20%7C%20C++-00599C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Protocol-RFC959%20%7C%20TCP-orange?style=flat-square" />
-      </p>
-      <p>Serveurs et clients réseaux multi-clients asynchrones basés sur multiplexage I/O (<code>select</code> / <code>poll</code>), protocoles binaires propriétaires et respect des normes RFC.</p>
-      <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">AI Exploration & Computer Vision</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Domain-Deep%20Learning-red?style=flat-square&logo=pytorch" />
-      </p>
-      <p>Modèles de vision par ordinateur et réseaux neuronaux pour la classification, segmentation d'images et agents décisionnels autonomes.</p>
-      <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
-    </td>
-  </tr>
-</table>
+#### Corewar
+> Virtual Machine & Assembler &bull; C
+- Implementation of a full bytecode virtual machine simulating competing programs in a shared circular memory arena.
+- Features dynamic process scheduling, live execution tracing, and bytecode compilation.
+
+#### The Plazza & Panoramix
+> Concurrent Simulation Engine &bull; C++20
+- High-concurrency architecture using multi-process management, IPC (Named Pipes / Sockets), thread pools, and POSIX synchronization primitives.
+- Optimized load balancing without deadlocks or race conditions.
+
+#### MyTeams & MyFTP
+> RFC-Compliant Network Servers & Clients &bull; C / C++
+- Asynchronous networking engines leveraging I/O multiplexing (`poll` / `select`) and binary protocols.
+- Robust state machines handling concurrent client sessions and file transfer streams.
 
 ---
 
-### GitHub Analytics
+### Connect
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=Zertrox123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" height="175" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=Zertrox123&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" height="175" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zertrox123&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" width="420" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Live Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zertrox123&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-  <br/><br/>
-
-  <!-- Snake Contribution Animation -->
-  <h3>Contribution Matrix</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake.svg" />
-    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
----
-
-<!-- ================= FOOTER ================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:1a1b26&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <p><i><b>Zertrox123</b></i></p>
-</div>
+- **LinkedIn:** [linkedin.com/in/Zertrox123](https://linkedin.com/in/Zertrox123)
+- **Email:** [contact@epitech.eu](mailto:zertrox123@epitech.eu)
+- **GitHub:** [github.com/Zertrox123](https://github.com/Zertrox123)
