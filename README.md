@@ -1,32 +1,32 @@
 <!-- ================================================================= -->
-<!-- 🌟 GITHUB PROFILE README - MODERN CYBER / TOKYO NIGHT EDITION 🌟 -->
+<!-- GITHUB PROFILE README - MODERN CYBER / TOKYO NIGHT EDITION -->
 <!-- ================================================================= -->
 
 <div align="center">
 
   <!-- Dynamic Header Banner (Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,30:7aa2f7,70:bb9af7,100:7dcfff&height=220&section=header&text=Omar%20Joudi&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%7C%20Systems%20%26%20Low-Level%20%7C%20AI%20%26%20Security&descFontSize=19&descAlignY=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,30:7aa2f7,70:bb9af7,100:7dcfff&height=220&section=header&text=Zertrox123&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%7C%20Systems%20%26%20Low-Level%20%7C%20AI%20%26%20Security&descFontSize=19&descAlignY=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Zertrox123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&height=45&lines=⚡+Specialized+in+High-Performance+C%2FC%2B%2B+%26+Systems+Programming;🤖+Building+AI%2C+Deep+Learning+%26+Computer+Vision+Models;🛡️+Cybersecurity%2C+Reverse+Engineering+%26+Binary+Exploitation;🌐+Network+Protocols%2C+Concurrency+%26+Distributed+Architectures" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&height=45&lines=Specialized+in+High-Performance+C%2FC%2B%2B+%26+Systems+Programming;Building+AI%2C+Deep+Learning+%26+Computer+Vision+Models;Cybersecurity%2C+Reverse+Engineering+%26+Binary+Exploitation;Network+Protocols%2C+Concurrency+%26+Distributed+Architectures" alt="Typing Subtitle" />
   </a>
 
   <br/>
 
   <!-- Social & Contact Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/omarjoudi" target="_blank">
+    <a href="https://linkedin.com/in/Zertrox123" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:omar.joudi@epitech.eu">
+    <a href="mailto:zertrox123@epitech.eu">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Zertrox123">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
+      <img src="https://img.shields.io/badge/Status-Building-2ea44f?style=for-the-badge" alt="Status" />
     </a>
   </p>
 
@@ -34,16 +34,16 @@
 
 ---
 
-### 🧠 &nbsp; À Propos de Moi / About Me
+### About Me
 
 <table border="0">
   <tr>
     <td width="65%" valign="top">
       <ul>
-        <li>🔭 <b>Focus Actuel :</b> Développement système haute performance, moteurs asynchrones & protocoles réseau en <b>C / C++20</b>.</li>
-        <li>🧠 <b>IA & Machine Learning :</b> Implémentation de pipelines de deep learning, vision par ordinateur et modèles autonomes.</li>
-        <li>🛡️ <b>Sécurité & Reverse :</b> Analyse binaire, rétro-ingénierie (Ghidra, GDB), compréhension bas-niveau et exploitation.</li>
-        <li>🚀 <b>Philosophie :</b> <i>"Comprendre chaque cycle processeur, maîtriser la mémoire, concevoir des architectures robustes."</i></li>
+        <li><b>Focus Actuel :</b> Développement système haute performance, moteurs asynchrones & protocoles réseau en <b>C / C++20</b>.</li>
+        <li><b>IA & Machine Learning :</b> Implémentation de pipelines de deep learning, vision par ordinateur et modèles autonomes.</li>
+        <li><b>Sécurité & Reverse :</b> Analyse binaire, rétro-ingénierie (Ghidra, GDB), compréhension bas-niveau et exploitation.</li>
+        <li><b>Philosophie :</b> <i>"Comprendre chaque cycle processeur, maîtriser la mémoire, concevoir des architectures robustes."</i></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -54,29 +54,29 @@
 
 ---
 
-### 🛠️ &nbsp; Arsenal Technique & Stack
+### Technical Stack
 
 <table width="100%" border="0">
   <tr>
-    <td width="28%"><b>⚡ Low-Level & Systems</b></td>
+    <td width="28%"><b>Low-Level & Systems</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=c,cpp,rust,assembly,linux,bash,cmake&theme=dark" alt="Systems Stack" />
     </td>
   </tr>
   <tr>
-    <td width="28%"><b>🤖 AI, Data & Scripting</b></td>
+    <td width="28%"><b>AI, Data & Scripting</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,numpy&theme=dark" alt="AI Stack" />
     </td>
   </tr>
   <tr>
-    <td width="28%"><b>🌐 Web & Backend</b></td>
+    <td width="28%"><b>Web & Backend</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,fastapi,mysql,postgres,mongodb&theme=dark" alt="Web Stack" />
     </td>
   </tr>
   <tr>
-    <td width="28%"><b>🛡️ DevOps & Tooling</b></td>
+    <td width="28%"><b>DevOps & Tooling</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,docker,gdb,neovim,vscode,githubactions,postman&theme=dark" alt="DevOps Stack" />
     </td>
@@ -85,12 +85,12 @@
 
 ---
 
-### 🚀 &nbsp; Projets Majeurs / Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚔️ Corewar (VM & Assembler)</h3>
+      <h3 align="center">Corewar (VM & Assembler)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-C%20%7C%20ASM-00599C?style=flat-square&logo=c" />
         <img src="https://img.shields.io/badge/Topic-Virtual%20Machine-blueviolet?style=flat-square" />
@@ -99,7 +99,7 @@
       <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🍕 The Plazza & Panoramix (Concurrency)</h3>
+      <h3 align="center">The Plazza & Panoramix (Concurrency)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-C++20-00599C?style=flat-square&logo=cplusplus" />
         <img src="https://img.shields.io/badge/Topic-Multithreading%20%7C%20IPC-brightgreen?style=flat-square" />
@@ -110,7 +110,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📡 MyTeams & MyFTP (Network Architecture)</h3>
+      <h3 align="center">MyTeams & MyFTP (Network Architecture)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-C%20%7C%20C++-00599C?style=flat-square" />
         <img src="https://img.shields.io/badge/Protocol-RFC959%20%7C%20TCP-orange?style=flat-square" />
@@ -119,7 +119,7 @@
       <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 AI Exploration & Computer Vision</h3>
+      <h3 align="center">AI Exploration & Computer Vision</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" />
         <img src="https://img.shields.io/badge/Domain-Deep%20Learning-red?style=flat-square&logo=pytorch" />
@@ -132,7 +132,7 @@
 
 ---
 
-### 📊 &nbsp; GitHub Analytics & Live Activity
+### GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -154,7 +154,7 @@
   <br/>
 
   <!-- Snake Contribution Animation -->
-  <h3>🐍 &nbsp; Contribution Matrix</h3>
+  <h3>Contribution Matrix</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake.svg" />
@@ -167,5 +167,5 @@
 <!-- ================= FOOTER ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:1a1b26&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <p><i>Crafted with 💻 & ☕ by <b>Omar Joudi</b></i></p>
+  <p><i><b>Zertrox123</b></i></p>
 </div>
