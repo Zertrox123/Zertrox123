@@ -138,7 +138,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Zertrox123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" height="175" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Zertrox123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" height="175" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com?user=Zertrox123&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" height="175" alt="GitHub Streak" />
@@ -146,19 +146,24 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zertrox123&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" width="420" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zertrox123&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" width="420" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
+  <!-- Live Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zertrox123&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+  <br/><br/>
+
   <!-- Snake Contribution Animation -->
   <h3>Contribution Matrix</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake.svg" />
-    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zertrox123/omarjoudi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zertrox123/omarjoudi/output/github-snake.svg" />
+    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/Zertrox123/omarjoudi/output/github-snake.svg" width="100%" />
   </picture>
 </div>
 
