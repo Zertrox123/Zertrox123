@@ -56,7 +56,7 @@
         <img src="https://img.shields.io/badge/Domain-Virtual%20Machine-blueviolet?style=flat-square" />
       </p>
       <p>Bytecode virtual machine with dynamic process scheduling and circular memory execution arena.</p>
-      <p align="center"><a href="https://github.com/Zertrox123"><b>Repository Link</b></a></p>
+      <p align="center"><a href="https://github.com/Zertrox123/corewar"><b>Repository Link</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">The Plazza</h4>
@@ -65,7 +65,7 @@
         <img src="https://img.shields.io/badge/Domain-Multithreading%20%7C%20IPC-brightgreen?style=flat-square" />
       </p>
       <p>High-concurrency simulation engine featuring thread pools, POSIX IPC, and deadlock-free load balancing.</p>
-      <p align="center"><a href="https://github.com/Zertrox123"><b>Repository Link</b></a></p>
+      <p align="center"><a href="https://github.com/Zertrox123/theplazza"><b>Repository Link</b></a></p>
     </td>
   </tr>
   <tr>
@@ -76,16 +76,20 @@
         <img src="https://img.shields.io/badge/Domain-Network%20Protocols-orange?style=flat-square" />
       </p>
       <p>Asynchronous multi-client network servers implementing RFC standards and I/O multiplexing.</p>
-      <p align="center"><a href="https://github.com/Zertrox123"><b>Repository Link</b></a></p>
+      <p align="center">
+        <a href="https://github.com/Zertrox123/myteams"><b>MyTeams</b></a> &nbsp;|&nbsp; <a href="https://github.com/Zertrox123/myftp"><b>MyFTP</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">AI & Computer Vision</h4>
+      <h4 align="center">CVRIE & Star Trek AI</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Domain-Deep%20Learning-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Domain-AI%20%7C%20Vision-red?style=flat-square" />
       </p>
-      <p>Convolutional neural networks and vision models for real-time feature extraction and classification.</p>
-      <p align="center"><a href="https://github.com/Zertrox123"><b>Repository Link</b></a></p>
+      <p>Computer vision processing pipeline and autonomous pathfinding search engine.</p>
+      <p align="center">
+        <a href="https://github.com/Zertrox123/cvrie"><b>CVRIE</b></a> &nbsp;|&nbsp; <a href="https://github.com/Zertrox123/starttrek"><b>Star Trek AI</b></a>
+      </p>
     </td>
   </tr>
 </table>
