@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,30:7aa2f7,70:bb9af7,100:7dcfff&height=220&section=header&text=Omar%20Joudi&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%7C%20Systems%20%26%20Low-Level%20%7C%20AI%20%26%20Security&descFontSize=19&descAlignY=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/omarjoudi">
+  <a href="https://github.com/Zertrox123">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&height=45&lines=⚡+Specialized+in+High-Performance+C%2FC%2B%2B+%26+Systems+Programming;🤖+Building+AI%2C+Deep+Learning+%26+Computer+Vision+Models;🛡️+Cybersecurity%2C+Reverse+Engineering+%26+Binary+Exploitation;🌐+Network+Protocols%2C+Concurrency+%26+Distributed+Architectures" alt="Typing Subtitle" />
   </a>
 
@@ -22,7 +22,7 @@
     <a href="mailto:omar.joudi@epitech.eu">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/omarjoudi">
+    <a href="https://github.com/Zertrox123">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="#">
@@ -96,7 +96,7 @@
         <img src="https://img.shields.io/badge/Topic-Virtual%20Machine-blueviolet?style=flat-square" />
       </p>
       <p>Implémentation d'une machine virtuelle complète exécutant des champions en bytecode d'instructions assembleur, avec gestion d'ordonnancement de processus et arène mémoire circulaire temps réel.</p>
-      <p align="center"><a href="https://github.com/omarjoudi"><b>Consulter le Dépôt ➔</b></a></p>
+      <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🍕 The Plazza & Panoramix (Concurrency)</h3>
@@ -105,7 +105,7 @@
         <img src="https://img.shields.io/badge/Topic-Multithreading%20%7C%20IPC-brightgreen?style=flat-square" />
       </p>
       <p>Moteur de simulation distribué haute concurrence avec gestion de processus multiples, IPC (Named Pipes / Sockets), Thread Pools et sémaphores pour allocation dynamique de ressources sans deadlocks.</p>
-      <p align="center"><a href="https://github.com/omarjoudi"><b>Consulter le Dépôt ➔</b></a></p>
+      <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
     </td>
   </tr>
   <tr>
@@ -116,7 +116,7 @@
         <img src="https://img.shields.io/badge/Protocol-RFC959%20%7C%20TCP-orange?style=flat-square" />
       </p>
       <p>Serveurs et clients réseaux multi-clients asynchrones basés sur multiplexage I/O (<code>select</code> / <code>poll</code>), protocoles binaires propriétaires et respect des normes RFC.</p>
-      <p align="center"><a href="https://github.com/omarjoudi"><b>Consulter le Dépôt ➔</b></a></p>
+      <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧠 AI Exploration & Computer Vision</h3>
@@ -125,7 +125,7 @@
         <img src="https://img.shields.io/badge/Domain-Deep%20Learning-red?style=flat-square&logo=pytorch" />
       </p>
       <p>Modèles de vision par ordinateur et réseaux neuronaux pour la classification, segmentation d'images et agents décisionnels autonomes.</p>
-      <p align="center"><a href="https://github.com/omarjoudi"><b>Consulter le Dépôt ➔</b></a></p>
+      <p align="center"><a href="https://github.com/Zertrox123"><b>Consulter le Dépôt ➔</b></a></p>
     </td>
   </tr>
 </table>
@@ -138,27 +138,27 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=omarjoudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Zertrox123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" height="175" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=omarjoudi&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" height="175" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Zertrox123&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" height="175" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarjoudi&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" width="420" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zertrox123&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" width="420" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Snake Contribution Animation (Auto-généré par GitHub Action) -->
+  <!-- Snake Contribution Animation -->
   <h3>🐍 &nbsp; Contribution Matrix</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omarjoudi/omarjoudi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omarjoudi/omarjoudi/output/github-snake.svg" />
-    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/omarjoudi/omarjoudi/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake.svg" />
+    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/Zertrox123/Zertrox123/output/github-snake.svg" width="100%" />
   </picture>
 </div>
 
