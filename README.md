@@ -35,11 +35,12 @@
 
 ### À propos de moi
 
-Étudiant en informatique passionné par le bas niveau, les systèmes Unix et l'intelligence artificielle. Je développe principalement en C, C++20, Rust et Python sur des projets système, réseau et IA.
+Étudiant en informatique passionné par le bas niveau, les systèmes Unix et l'IA
+Je dev principalement en C, C++20, Rust et Python sur des projets système, réseau et machine learning
 
 <br/>
 
-> <sub>*Note : une grande partie de mes projets et rendus d'école sont conservés en privé, ce qui explique que l'activité affichée publiquement ne reflète qu'une fraction de mon travail au quotidien.*</sub>
+> <sub>*Note : beaucoup de mes projets et rendus d'école sont en privé donc l'activité affichée reflète pas tout*</sub>
 
 ---
 
@@ -61,7 +62,7 @@
         <img src="https://img.shields.io/badge/Langage-C%20%7C%20ASM-00599C?style=flat-square" />
         <img src="https://img.shields.io/badge/Domaine-Machine%20Virtuelle-blueviolet?style=flat-square" />
       </p>
-      <p>Machine virtuelle d'arène mémoire et assembleur bytecode pour faire s'affronter des champions en assembleur.</p>
+      <p>Machine virtuelle d'arène mémoire et assembleur bytecode pour faire s'affronter des champions en assembleur</p>
       <p align="center"><a href="https://github.com/Zertrox123/corewar"><b>Voir le projet</b></a></p>
     </td>
     <td width="50%" valign="top">
@@ -70,7 +71,7 @@
         <img src="https://img.shields.io/badge/Langage-C++20-00599C?style=flat-square" />
         <img src="https://img.shields.io/badge/Domaine-Multi--threading%20%7C%20IPC-brightgreen?style=flat-square" />
       </p>
-      <p>Simulation concurrente en C++20 avec processus séparés, thread pools et communication IPC sans deadlock.</p>
+      <p>Simulation concurrente en C++20 avec processus séparés, thread pools et communication IPC sans deadlock</p>
       <p align="center"><a href="https://github.com/Zertrox123/theplazza"><b>Voir le projet</b></a></p>
     </td>
   </tr>
@@ -81,7 +82,7 @@
         <img src="https://img.shields.io/badge/Langage-C-00599C?style=flat-square" />
         <img src="https://img.shields.io/badge/Domaine-Reseau%20%7C%20TCP-orange?style=flat-square" />
       </p>
-      <p>Serveurs réseau asynchrones en C conformes aux normes RFC et gérant plusieurs clients en parallèle via multiplexage.</p>
+      <p>Serveurs réseau asynchrones en C conformes aux RFC avec gestion multi-clients par multiplexage</p>
       <p align="center">
         <a href="https://github.com/Zertrox123/myteams"><b>MyTeams</b></a> &nbsp;|&nbsp; <a href="https://github.com/Zertrox123/myftp"><b>MyFTP</b></a>
       </p>
@@ -92,7 +93,7 @@
         <img src="https://img.shields.io/badge/Langage-Python-3776AB?style=flat-square" />
         <img src="https://img.shields.io/badge/Domaine-IA%20%7C%20Vision-red?style=flat-square" />
       </p>
-      <p>Pipeline de traitement d'images avec OpenCV et moteur de navigation autonome avec algorithmes de pathfinding (A*).</p>
+      <p>Traitement d'images avec OpenCV et moteur de navigation autonome avec pathfinding A*</p>
       <p align="center">
         <a href="https://github.com/Zertrox123/cvrie"><b>CVRIE</b></a> &nbsp;|&nbsp; <a href="https://github.com/Zertrox123/starttrek"><b>Star Trek AI</b></a>
       </p>
