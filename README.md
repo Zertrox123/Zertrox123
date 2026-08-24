@@ -10,7 +10,11 @@
 
   <br/><br/>
 
-  <!-- Social Links -->
+  <!-- Links & Portfolio -->
+  <a href="https://zertrox123.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/omar-joudi/?locale=en" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
