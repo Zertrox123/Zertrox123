@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Joudi&fontSize=48&fontAlignY=38&desc=Etudiant%20en%20informatique%20%7C%20Systemes%20%26%20IA&descFontSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Joudi&fontSize=48&fontAlignY=38&desc=Etudiant%20en%20informatique%20-%20Systemes%20et%20IA&descFontSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Zertrox123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=40&lines=Etudiant+a+Epitech;Dev+C%2FC%2B%2B%2C+Rust+%26+Python;Systemes%2C+reseau+et+concurrence;Intelligence+Artificielle+%26+Data" alt="Sous-titre anime" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=40&lines=Etudiant+a+Epitech;Dev+C%2C+C%2B%2B%2C+Rust+et+Python;Systemes+et+programmation+bas+niveau;Intelligence+Artificielle+et+Machine+Learning" alt="Sous-titre anime" />
   </a>
 
   <br/><br/>
@@ -35,7 +35,7 @@
 
 ### À propos de moi
 
-Étudiant en informatique passionné par le développement bas niveau, les systèmes Unix et l'intelligence artificielle. Je code principalement en C, C++20, Rust et Python sur des projets de systèmes, de réseaux, de concurrence et de vision par ordinateur.
+Étudiant en informatique passionné par le bas niveau, les systèmes Unix et l'intelligence artificielle. Je développe principalement en C, C++20, Rust et Python sur des projets système, réseau et IA.
 
 <br/>
 
